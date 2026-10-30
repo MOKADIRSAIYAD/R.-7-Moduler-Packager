@@ -1,6 +1,6 @@
 # Moduler & Packager — Multi-Utility Toolkit
 
-**Red & White Skill Education | Python Modules & Packages Project**
+
 
 ## Overview
 Ek Python-based Multi-Utility Toolkit jo multiple built-in modules (`datetime`, `time`, `math`, `random`, `uuid`), custom modules aur ek custom package ko jodkar alag-alag kaam karta hai: date-time operations, mathematical calculations, random data generation, unique identifiers, file handling aur dynamic module exploration (`dir()`).
@@ -92,4 +92,4 @@ Difference: 10 days
 - Stopwatch aur countdown console me chalte hain (Enter se start/stop, `time.sleep(1)` se countdown).
 
 ## Author
-*(Apna naam yahan likho)*
+*(MOHAMMADKADIR SAIYAD)*
